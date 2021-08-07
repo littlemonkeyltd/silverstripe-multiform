@@ -1,5 +1,5 @@
 {
-    "name": "silverstripe/multiform",
+    "name": "littlemonkeyltd/multiform",
     "description": "SilverStripe forms with multiple steps, flow control and state persistence",
     "type": "silverstripe-vendormodule",
     "keywords": [
